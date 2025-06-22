@@ -7,8 +7,8 @@ This is a full-stack URL Shortener I built using **Spring Boot** (Java) on the b
 
 ## 🌐 Live Demo
 
-- 🖥️ Frontend (Netlify): [YourFrontendLink.netlify.app](https://privurl.netlify.app/)
-- ⚙️ Backend (Render): [YourBackendLink.onrender.com](https://mehulj-privurl.onrender.com/)
+- 🖥️ Frontend (Netlify): (https://privurl.netlify.app/)
+- ⚙️ Backend (Render): (https://mehulj-privurl.onrender.com/)
 
 
 
